@@ -28,7 +28,7 @@ twitter_username: masyukun
 github_username:  masyukun
 
 # Build settings
-theme: cayman
+theme: minima
 plugins:
   - jekyll-feed
 
